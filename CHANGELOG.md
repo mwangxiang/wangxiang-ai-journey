@@ -7,8 +7,10 @@
 ### Added
 - 创建公开 GitHub 仓库 `wangxiang-ai-journey`
 - 建立第一版项目定位与 README 初稿
+- 建立 README 第二版首页优化
 - 建立 ROADMAP 初稿
 - 建立 CONTRIBUTING 初稿
 - 建立 CHANGELOG
 - 建立脱敏公开规范文档
+- 新增 GitHub CLI 登录与仓库初始化案例复盘
 - 初始化 docs / showcase / templates / .github 目录结构
