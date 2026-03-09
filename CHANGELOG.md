@@ -17,5 +17,6 @@
 - 新增 GitHub CLI 登录与仓库初始化案例复盘
 - 新增“为什么要把 AI 助手实践做成公开项目”案例复盘
 - 新增 GitHub 项目持续维护 workflow
+- 新增 OpenClaw 持续运维 GitHub 项目 workflow
 - 新增“第一次看这个项目，应该怎么读”指南
 - 初始化 docs / showcase / templates / .github 目录结构

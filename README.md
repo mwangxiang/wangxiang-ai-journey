@@ -87,6 +87,7 @@
 - [`docs/learning-log/2026-03-09-project-init.md`](docs/learning-log/2026-03-09-project-init.md) —— 项目是怎么开始的
 - [`docs/case-studies/2026-03-09-github-cli-login-and-repo-bootstrap.md`](docs/case-studies/2026-03-09-github-cli-login-and-repo-bootstrap.md) —— 用手机远程协助完成 GitHub CLI 登录与项目初始化
 - [`docs/case-studies/2026-03-09-why-build-this-in-public.md`](docs/case-studies/2026-03-09-why-build-this-in-public.md) —— 为什么要把 AI 助手实践做成公开项目
+- [`docs/workflows/openclaw-github-maintenance.md`](docs/workflows/openclaw-github-maintenance.md) —— 如何用 OpenClaw 持续运维一个公开 GitHub 项目
 - [`docs/workflows/github-project-maintenance.md`](docs/workflows/github-project-maintenance.md) —— 如何持续维护一个公开 GitHub 项目
 - [`docs/guides/how-to-read-this-project.md`](docs/guides/how-to-read-this-project.md) —— 第一次看这个项目，应该怎么读
 
