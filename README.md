@@ -80,15 +80,26 @@
 
 ---
 
+## 精选内容入口
+
+如果你想快速理解这个项目，建议先看这几篇：
+
+- [`docs/learning-log/2026-03-09-project-init.md`](docs/learning-log/2026-03-09-project-init.md) —— 项目是怎么开始的
+- [`docs/case-studies/2026-03-09-github-cli-login-and-repo-bootstrap.md`](docs/case-studies/2026-03-09-github-cli-login-and-repo-bootstrap.md) —— 用手机远程协助完成 GitHub CLI 登录与项目初始化
+- [`docs/case-studies/2026-03-09-why-build-this-in-public.md`](docs/case-studies/2026-03-09-why-build-this-in-public.md) —— 为什么要把 AI 助手实践做成公开项目
+- [`docs/workflows/github-project-maintenance.md`](docs/workflows/github-project-maintenance.md) —— 如何持续维护一个公开 GitHub 项目
+- [`docs/guides/how-to-read-this-project.md`](docs/guides/how-to-read-this-project.md) —— 第一次看这个项目，应该怎么读
+
 ## 先看哪里
 
 如果你第一次来到这个仓库，建议按下面顺序看：
 
 1. [`ROADMAP.md`](ROADMAP.md) —— 看项目现在在哪个阶段
 2. [`docs/guides/getting-started.md`](docs/guides/getting-started.md) —— 看新手入口
-3. [`docs/learning-log/2026-03-09-project-init.md`](docs/learning-log/2026-03-09-project-init.md) —— 看项目是怎么开始的
-4. [`docs/case-studies/`](docs/case-studies/) —— 看后续完整案例
-5. [`docs/workflows/`](docs/workflows/) —— 看可复用工作流
+3. [`docs/guides/how-to-read-this-project.md`](docs/guides/how-to-read-this-project.md) —— 看阅读路线
+4. [`docs/learning-log/2026-03-09-project-init.md`](docs/learning-log/2026-03-09-project-init.md) —— 看项目是怎么开始的
+5. [`docs/case-studies/`](docs/case-studies/) —— 看完整案例
+6. [`docs/workflows/`](docs/workflows/) —— 看可复用工作流
 
 ---
 
