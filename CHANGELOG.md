@@ -18,5 +18,7 @@
 - 新增“为什么要把 AI 助手实践做成公开项目”案例复盘
 - 新增 GitHub 项目持续维护 workflow
 - 新增 OpenClaw 持续运维 GitHub 项目 workflow
+- 新增 OpenClaw 查资料并交付文件 workflow
+- 新增从 S.H.I.T Journal 精准查找并交付论文的案例复盘
 - 新增“第一次看这个项目，应该怎么读”指南
 - 初始化 docs / showcase / templates / .github 目录结构
