@@ -12,4 +12,4 @@
 ## 当前文档
 
 - [`openclaw-research-and-file-delivery.md`](openclaw-research-and-file-delivery.md) —— 如何用 OpenClaw 快速、准确地查资料并把结果发送给用户
-- [`external-signal-daily-briefing-method.md`](external-signal-daily-briefing-method.md) —— 如何做“外部发现日报 / 社交与行业信号快报”
+- [`external-signal-daily-briefing-method.md`](external-signal-daily-briefing-method.md) —— 如何做可复刻的“外部发现日报”，并自动产出 Markdown 文档

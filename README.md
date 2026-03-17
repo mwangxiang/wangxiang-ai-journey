@@ -89,7 +89,7 @@
 - [`docs/case-studies/2026-03-09-why-build-this-in-public.md`](docs/case-studies/2026-03-09-why-build-this-in-public.md) —— 为什么要把 AI 助手实践做成公开项目
 - [`docs/workflows/openclaw-github-maintenance.md`](docs/workflows/openclaw-github-maintenance.md) —— 如何用 OpenClaw 持续运维一个公开 GitHub 项目
 - [`docs/workflows/openclaw-research-and-file-delivery.md`](docs/workflows/openclaw-research-and-file-delivery.md) —— 如何用 OpenClaw 快速、准确地查资料并把结果发送给用户
-- [`docs/workflows/external-signal-daily-briefing-method.md`](docs/workflows/external-signal-daily-briefing-method.md) —— 如何做“外部发现日报 / 社交与行业信号快报”
+- [`docs/workflows/external-signal-daily-briefing-method.md`](docs/workflows/external-signal-daily-briefing-method.md) —— 如何做可复刻的“外部发现日报”，并自动产出 Markdown 文档
 - [`docs/workflows/github-project-maintenance.md`](docs/workflows/github-project-maintenance.md) —— 如何持续维护一个公开 GitHub 项目
 - [`docs/case-studies/2026-03-09-finding-and-delivering-a-paper-from-shit-journal.md`](docs/case-studies/2026-03-09-finding-and-delivering-a-paper-from-shit-journal.md) —— 如何从 S.H.I.T Journal 精准找到目标论文并直接交付文件
 - [`docs/guides/how-to-read-this-project.md`](docs/guides/how-to-read-this-project.md) —— 第一次看这个项目，应该怎么读
