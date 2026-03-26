@@ -15,3 +15,4 @@
 - [`external-signal-daily-briefing-method.md`](external-signal-daily-briefing-method.md) —— 如何做可复刻的“外部发现日报”，并自动产出 Markdown 文档
 - [`external-signal-daily-briefing-template.md`](external-signal-daily-briefing-template.md) —— 外部发现日报的 Markdown 输出模板
 - [`external-signal-daily-briefing-prompt-template.md`](external-signal-daily-briefing-prompt-template.md) —— 外部发现日报的执行提示词模板
+- [`ai-wave-learning-method-with-111-theory.md`](ai-wave-learning-method-with-111-theory.md) —— 如何借 AI 横推问题，再把能力长回自己身上
