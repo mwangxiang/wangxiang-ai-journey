@@ -96,6 +96,35 @@
 - [`docs/case-studies/2026-03-09-finding-and-delivering-a-paper-from-shit-journal.md`](docs/case-studies/2026-03-09-finding-and-delivering-a-paper-from-shit-journal.md) —— 如何从 S.H.I.T Journal 精准找到目标论文并直接交付文件
 - [`docs/guides/how-to-read-this-project.md`](docs/guides/how-to-read-this-project.md) —— 第一次看这个项目，应该怎么读
 
+## AI 学习方法专题导航
+
+如果你是想直接看这套公开方法论，建议从这里进入：
+
+### 1. AI 浪潮式学习法（主入口）
+- [`docs/workflows/ai-wave-learning-method-with-111-theory.md`](docs/workflows/ai-wave-learning-method-with-111-theory.md)
+- 适合第一次看的人，先理解：
+  - AI 为什么会先把人的临时能力拉高
+  - 为什么能力会先“挂”在外部系统上
+  - 如何通过横推、蒸馏、刻意练习、费曼学习，把能力长回自己身上
+
+### 2. 111 学习理论
+- [`docs/workflows/111-learning-theory.md`](docs/workflows/111-learning-theory.md)
+- 这篇重点解释：
+  - 1 小时建立框架
+  - 10 小时理解核心
+  - 100 小时形成肌肉记忆
+  - 为什么“懂了”和“会了”之间，往往还差 100 小时
+
+### 3. 111 理论如何诞生
+- [`docs/workflows/how-111-theory-was-born-from-ai-wave-learning.md`](docs/workflows/how-111-theory-was-born-from-ai-wave-learning.md)
+- 这篇重点解释：
+  - 111 理论不是空想出来的
+  - 它是如何从真实的 AI 浪潮式学习实践中长出来的
+  - 为什么它最后会从一个观察，变成独立理论项目
+
+> 推荐阅读顺序：
+> 先看 **AI 浪潮式学习法** → 再看 **111 学习理论** → 最后看 **111 理论如何诞生**。
+
 ## 先看哪里
 
 如果你第一次来到这个仓库，建议按下面顺序看：
